@@ -13,9 +13,9 @@ Purpose of analysis is to provide data and visualizations highlighting differenc
 ## Project Tasks
 The analysis will include:
 
-1. Summary of ride sharing data by city type (Urban, Suburban, Rural)
+1. Summary of ride sharing data by city type (Urban, Suburban, Rural).
 2. Multiple-line chart of total fares by city type. 
-3. Written analysis
+3. Written analysis.
 
 ## Resources
 -- Data Source: city_data.csv, ride_data.csv
